@@ -21,7 +21,7 @@ To load data to The TI-99, you have to type in 'OLD CS1'. CS1 stands for Cassett
 
 I must say, there is something incredibly satisfying about 'unwinding' my software.
 
-![okdata](https://github.com/austings/BASIC-with-the-TI-99/blob/master/data_ok.jpg)
+![okdata](https://github.com/austings/BASIC-with-the-TI-99/blob/master/dataok.jpg)
 
 As the computer reads the encoded machine language from the tape, it makes a sound similar to a dialup modem. Sometimes it can take multiple tries to get a correct read from the tape. I'm using thinner tapes than they would have in 80s, so that could also have something to do with it. Once it finally does load, I'm able to see my code by typing in the command 'LIST'
 
