@@ -3,7 +3,7 @@ The Texas Instruments TI-99/4A is a home computer released in June 1981 and its 
 
 ![ti-99](https://github.com/austings/BASIC-with-the-TI-99/blob/master/1.jpg)
 
-I purchased this ancient relic from a hermit living in the distant lands we call The Finger Lakes. He had several of them stockpiled and was willing to sell it to me for a modest sum. It came with this bulky user manual which explained the variant of BASIC the system used called TI-BASIC. Its pretty different from the code used on modern day TI calculators, and in fact this was the last entry from Tiger Electronics into the home computing market before they left the industry all together to focus on their calculators. It even comes with the original rebate, although I doubt I'm getting any money back at this point.
+I purchased this ancient relic from a hermit living in the distant lands we call The Finger Lakes. He had several of them stockpiled and was willing to sell it to me for a modest sum. It came with this bulky user manual which explained the variant of BASIC the system used called TI-BASIC. Its pretty different from the code used on modern day TI calculators, and in fact this was the last entry from Texas Instruments into the home computing market before they left the industry all together to focus on their calculators. It even comes with the original rebate, although I doubt I'm getting any money back at this point.
 
 ![cassette](https://github.com/austings/BASIC-with-the-TI-99/blob/master/startup.jpg)
 
