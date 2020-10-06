@@ -35,4 +35,4 @@ Its a slot machine! No need to go to the casino, just play slots on your very ow
 
  ![slot2](https://github.com/austings/BASIC-with-the-TI-99/blob/master/slot2.jpg)
 
-Well, I'm not very good at slots. But you get the point. This was an incredibly fun project, and it encouraged me to pick up some other old computers. As I build more programs, I'll be sure to share them here.
+Well, I'm not very good at slots. But you get the point. This was an incredibly fun project, and it encouraged me to pick up some other old computers. As I build more programs, I'll be sure to share them here. 
