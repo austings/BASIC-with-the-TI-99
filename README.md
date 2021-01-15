@@ -27,7 +27,7 @@ As the computer reads the encoded machine language from the tape, it makes a sou
 
 ![endcode](https://github.com/austings/BASIC-with-the-TI-99/blob/master/endcode.jpg)
 
-Yep, its about 1200 lines. And each scrolls by on the screen one at a time. No, you can't scroll back up. If you want to see a specific line, you need to type in another command for the specific line, or type 'LIST' in again and hope you can spot the error as it whizes by. Despite being a relatively simple program, it took me about an hour just to type in to the computer. Most of my work was done on paper, and that took a few days to figure out. So, what is the code do?
+Yep, its about 1200 lines. And each scrolls by on the screen one at a time. No, you can't scroll back up. If you want to see a specific line, you need to type in another command for the specific line, or type 'LIST' in again and hope you can spot the error as it whizes by. Despite being a relatively simple program, it took me about an hour just to type in to the computer. Most of my work was done on paper, and that took a few days to figure out. So, what does the code do?
 
  ![slot1](https://github.com/austings/BASIC-with-the-TI-99/blob/master/slot1.jpg)
 
